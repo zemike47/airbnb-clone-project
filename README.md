@@ -6,3 +6,4 @@
 -- it will have database like redis,django,python at the backend
 
 
+# xmcvbskdjvdsvndsvzx,mx,mv kcvknvzx vk;vkvd kjvb;djvfjv fxzkjvsvoivdvnv  v;sdkjv
