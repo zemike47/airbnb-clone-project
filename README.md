@@ -21,7 +21,8 @@
  ### entities requied for our projects  Users, Properties, Bookings, Reviews, and Payments.
  ### Users - user can have multiple properties, a booking belongs to a property, etc
 
- ## 
+ ## Feature Breakdown
+ ### user management, property management, booking system
 
  
 
