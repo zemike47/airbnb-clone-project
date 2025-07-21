@@ -12,7 +12,13 @@
 ### Quality assurance (QA) engineer - Assure the system quality based on standards
 ### DevOps engineer - Facilitates cooperation between development and operations teams
 
- -
+ ## 2. Technology Stack Overview
+
+ ### django - for building web rest framework APIs
+ ### PostgreSQL - for storing database flies
+
+ 
+
 
 
 
