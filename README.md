@@ -24,6 +24,14 @@
  ## Feature Breakdown
  ### user management, property management, booking system
 
+ ## API Security
+ ### authentication, authorization, rate limiting
+
+ ## CI/CD Pipeline
+ ### GitHub Actions, Docker
+
+ 
+ 
  
 
 
